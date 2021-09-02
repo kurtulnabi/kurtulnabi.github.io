@@ -61,17 +61,17 @@
         "admb_inters": "ca-app-pub-3940256099942544/1033173712",
         "admb_native": "ca-app-pub-3940256099942544/2247696110"
       },
-      "unity": false,
+      "unity": true,
       "adsunity": {
-        "unity_id": "3978659s",
-        "unity_inters": "video"
+        "unity_id": "3978659",
+        "unity_inters": "Android_Interstitial"
       },
       
       
       "more": [ 
         [
           "false",
-          "https://www.cimoandroid.com/com/lulubox_tips.png",
+          "https://www..com/com/lulubox_tips.png",
           "com.facebook.lite",
           "lite"
         ]

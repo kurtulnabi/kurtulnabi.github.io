@@ -9,7 +9,7 @@
       "version": 1,
       "newAppLink": "",
       
-      "video": "",
+      "video": "https://drive.google.com/uc?id=1a-_QjDK8tQKgIpNAeB1MnSvfgupbQYtq",
       "privacy": "https://kurtulnabi.github.io/privacy.html",
       
       "spancount": 1,

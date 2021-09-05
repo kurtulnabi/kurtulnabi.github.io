@@ -57,9 +57,9 @@
         "admb_inters": "ca-app-pub-3940256099942544/1033173712",
         "admb_native": "ca-app-pub-3940256099942544/2247696110"
       },
-      "unity": false,
+      "unity": true,
       "adsunity": {
-        "unity_id": "3978659a",
+        "unity_id": "3978659",
         "unity_inters": "Android_Interstitial"
       },
       

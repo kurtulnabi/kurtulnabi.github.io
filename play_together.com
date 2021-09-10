@@ -46,9 +46,9 @@
       "fan": false,
       "snf": "mix",
       "adsfan": {
-        "fan_inters": "IMG_16_9_APP_INSTALL#147772497126061_147861650450479",
-        "fan_native": "VID_HD_9_16_39S_APP_INSTALL#147772497126061_147774260459218",
-        "fan_native_banner": "IMG_16_9_APP_INSTALL#147772497126061_177597947476849"
+        "fan_inters": "4611529225525806_4613284265350302",
+        "fan_native": "4611529225525806_4613285105350218",
+        "fan_native_banner": "4611529225525806_4613285628683499"
       },
       "admob": true,
       "adsadmb": {

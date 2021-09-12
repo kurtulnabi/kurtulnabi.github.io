@@ -8,8 +8,8 @@
       "version": 1,
       "newAppLink": "",
       
-      "video": "https://d104h15ace3unr.cloudfront.net/out/v1/8797dfd95c1944bc88aebdd531105e2f/index_3.m3u8",
-      "videoS": "https://drive.google.com/uc?id=15fBCz9RJ3wAyZc_t9IfuzXqDHf0vkg6X",
+      "videoS": "https://d104h15ace3unr.cloudfront.net/out/v1/8797dfd95c1944bc88aebdd531105e2f/index_3.m3u8",
+      "video": "https://drive.google.com/uc?id=15fBCz9RJ3wAyZc_t9IfuzXqDHf0vkg6X",
       "privacy": "https://kurtulnabi.github.io/privacy.html",
       
       "spancount": 1,

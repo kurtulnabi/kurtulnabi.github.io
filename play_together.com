@@ -8,8 +8,8 @@
       "version": 1,
       "newAppLink": "",
       
-      "videoS": "https://d104h15ace3unr.cloudfront.net/out/v1/8797dfd95c1944bc88aebdd531105e2f/index_3.m3u8",
-      "video": "https://drive.google.com/uc?id=1XzxVN-kTRziO-GEagW3oBpPuBDr4ESa6",
+      "video": "https://d3is2jjgab63eh.cloudfront.net/out/v1/f4eacf9951404e9a8f20040b850788da/index_3.m3u8",
+      "videovietnam": "https://drive.google.com/uc?id=1XzxVN-kTRziO-GEagW3oBpPuBDr4ESa6",
       "videoss": "https://drive.google.com/uc?id=15fBCz9RJ3wAyZc_t9IfuzXqDHf0vkg6X",
       "privacy": "https://kurtulnabi.github.io/privacy.html",
       

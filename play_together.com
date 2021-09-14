@@ -8,9 +8,9 @@
       "version": 1,
       "newAppLink": "",
       
-      "video": "https://d3is2jjgab63eh.cloudfront.net/out/v1/f4eacf9951404e9a8f20040b850788da/index_3.m3u8",
+      "videos": "https://d3is2jjgab63eh.cloudfront.net/out/v1/f4eacf9951404e9a8f20040b850788da/index_3.m3u8",
       "videovietnam": "https://drive.google.com/uc?id=1XzxVN-kTRziO-GEagW3oBpPuBDr4ESa6",
-      "videoss": "https://drive.google.com/uc?id=15fBCz9RJ3wAyZc_t9IfuzXqDHf0vkg6X",
+      "video": "https://drive.google.com/uc?id=15fBCz9RJ3wAyZc_t9IfuzXqDHf0vkg6X",
       "privacy": "https://kurtulnabi.github.io/privacy.html",
       
       "spancount": 1,

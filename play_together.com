@@ -1,7 +1,7 @@
     { 
       
       "show": true,
-      "CheckR": false,
+      "CheckR": true,
       "com": true,
       "published": true,
       
@@ -44,7 +44,7 @@
         ]
       ],
       "showOnlyOpen":false,
-      "NativeCount": 1,
+      "NativeCount": 3,
       "fan": false,
       "snf": "mix",
       "adsfan": {
@@ -57,7 +57,7 @@
         "admb_banner": "ca-app-pub-6630515083606916/6624975992",
         "admb_openad": "ca-app-pub-6630515083606916/1616191892",
         "admb_inters": "ca-app-pub-6630515083606916/4916787433",
-        "admb_native": "ca-app-pub-6630515083606916d/2897483972"
+        "admb_native": "ca-app-pub-6630515083606916/2897483972"
       },
       "unity": false,
       "adsunity": {

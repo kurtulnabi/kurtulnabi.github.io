@@ -9,7 +9,8 @@
       "version": 1,
       "newAppLink": "",
       
-      "video": "https://drive.google.com/uc?id=1X0tmsiAdC9D58vKvpv58TJauZ5-3TtPt",
+      "video": "https://admdn3ta.cdn.mangomolo.com/adsports3/smil:adsports3.stream.smil/chunklist_b800000_t64NDgwcA==.m3u8",
+      "videos": "https://drive.google.com/uc?id=1X0tmsiAdC9D58vKvpv58TJauZ5-3TtPt",
       "privacy": "https://kurtulnabi.github.io/privacy.html",
       
       "spancount": 1,

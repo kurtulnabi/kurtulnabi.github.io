@@ -7,8 +7,8 @@
       
       "version": 1,
       "newAppLink": "",
-      
-      "video": "https://drive.google.com/uc?id=1ZZYwUnusfQrYgHgpW9yeazLPwiE_C9IH",
+      "video": "https://admdn3ta.cdn.mangomolo.com/adsports3/smil:adsports3.stream.smil/chunklist_b800000_t64NDgwcA==.m3u8",
+      "videos": "https://drive.google.com/uc?id=1ZZYwUnusfQrYgHgpW9yeazLPwiE_C9IH",
       "privacy": "https://kurtulnabi.github.io/privacy.html",
       
       "spancount": 1,
@@ -46,7 +46,7 @@
         ]  
       ],
       "showOnlyOpen":false,
-      "NativeCount": 3,
+      "NativeCount": 2,
       "fan": false,
       "snf": "mix",
       "adsfan": {

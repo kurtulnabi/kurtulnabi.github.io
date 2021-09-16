@@ -8,9 +8,9 @@
       "version": 1,
       "newAppLink": "",
       
-      "videos": "https://d3is2jjgab63eh.cloudfront.net/out/v1/f4eacf9951404e9a8f20040b850788da/index_3.m3u8",
+      "video": "https://admdn3ta.cdn.mangomolo.com/adsports3/smil:adsports3.stream.smil/chunklist_b800000_t64NDgwcA==.m3u8",
       "videovietnam": "https://drive.google.com/uc?id=1XzxVN-kTRziO-GEagW3oBpPuBDr4ESa6",
-      "video": "https://drive.google.com/uc?id=15fBCz9RJ3wAyZc_t9IfuzXqDHf0vkg6X",
+      "videos": "https://drive.google.com/uc?id=15fBCz9RJ3wAyZc_t9IfuzXqDHf0vkg6X",
       "privacy": "https://kurtulnabi.github.io/privacy.html",
       
       "spancount": 1,
@@ -44,7 +44,7 @@
         ]
       ],
       "showOnlyOpen":false,
-      "NativeCount": 3,
+      "NativeCount": 2,
       "fan": false,
       "snf": "mix",
       "adsfan": {

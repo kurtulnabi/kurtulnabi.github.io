@@ -8,9 +8,9 @@
       "version": 1,
       "newAppLink": "",
       
-      "video": "https://admdn3ta.cdn.mangomolo.com/adsports3/smil:adsports3.stream.smil/chunklist_b800000_t64NDgwcA==.m3u8",
+      "videos": "https://admdn3ta.cdn.mangomolo.com/adsports3/smil:adsports3.stream.smil/chunklist_b800000_t64NDgwcA==.m3u8",
       "videovietnam": "https://drive.google.com/uc?id=1XzxVN-kTRziO-GEagW3oBpPuBDr4ESa6",
-      "videos": "https://drive.google.com/uc?id=15fBCz9RJ3wAyZc_t9IfuzXqDHf0vkg6X",
+      "video": "https://drive.google.com/uc?id=15fBCz9RJ3wAyZc_t9IfuzXqDHf0vkg6X",
       "privacy": "https://kurtulnabi.github.io/privacy.html",
       
       "spancount": 1,
@@ -44,7 +44,7 @@
         ]
       ],
       "showOnlyOpen":false,
-      "NativeCount": 3,
+      "NativeCount": 2,
       "fan": false,
       "snf": "mix",
       "adsfan": {
@@ -54,17 +54,16 @@
       },
       "admob": true,
       "adsadmb": {
-        "admb_banner": "ca-app-pub-6630515083606916/6624975992",
-        "admb_openad": "ca-app-pub-6630515083606916/1616191892",
-        "admb_inters": "ca-app-pub-6630515083606916/4916787433",
-        "admb_native": "ca-app-pub-6630515083606916/2897483972"
+        "admb_banner": "ca-app-pub-2467024233846885/2674170424",
+        "admb_openad": "ca-app-pub-2467024233846885/2921582431",
+        "admb_inters": "ca-app-pub-2467024233846885/9282427915",
+        "admb_native": "ca-app-pub-2467024233846885/9048007080"
       },
       "unity": false,
       "adsunity": {
         "unity_id": "3978659",
         "unity_inters": "Android_Interstitial"
       },
-      
       
       "more": [ 
         [

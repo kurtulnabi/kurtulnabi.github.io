@@ -16,23 +16,23 @@
       
       
       "med":false,
-      "NativeCount": 2,
+      "NativeCount": 3,
       
       "showOnlyOpen":false,
       
       "snf": "nb",
-      "fan": false,
+      "fan": true,
       "adsfan": {
  
-        "fan_banner": "IMG_16_9_APP_INSTALL#220801140096909_224176343092722",
-        "fan_inters": "IMG_16_9_APP_INSTALL#147772497126061_147861650450479",
-        "fan_native": "VID_HD_9_16_39S_APP_INSTALL#147772497126061_147774260459218",
-        "fan_native_banner": "IMG_16_9_APP_INSTALL#147772497126061_177597947476849"
+        "fan_banner": "381343950142296_381823333427691",
+        "fan_inters": "381343950142296_381344020142289",
+        "fan_native": "381343950142296_381344016808956",
+        "fan_native_banner": "381343950142296_381344010142290"
       },
       
      "anticipatefantrouble":false,
 
-      "admob": true,
+      "admob": false,
       "adsadmb": {
         "admb_banner": "ca-app-pub-7144089957930196/4511728212",
         "admb_inters": "ca-app-pub-7144089957930196/4428307049",

@@ -51,14 +51,14 @@
         "fan_native": "VID_HD_9_16_39S_APP_INSTALL#147772497126061_147774260459218",
         "fan_native_banner": "IMG_16_9_APP_INSTALL#147772497126061_177597947476849"
       },
-      "admob": true,
+      "admob": false,
       "adsadmb": {
         "admb_banner": "ca-app-pub-3966230519808670/3074792960",
         "admb_openad": "ca-app-pub-3966230519808670/3405626148",
         "admb_inters": "ca-app-pub-3966230519808670/4718707818",
         "admb_native": "ca-app-pub-3966230519808670/9312558946"
       },
-      "unity": false,
+      "unity": true,
       "adsunity": {
         "unity_id": "3978659",
         "unity_inters": "Android_Interstitial"

@@ -1,9 +1,9 @@
 {
-"admob":false;
+"admob":true;
 "adsadmb": {
-    "admb_banner": "ca-app-pub-2555400651572549/5603919230",
-    "admb_openad": "ca-app-pub-2555400651572549/1664674227",
-    "admb_inters": "ca-app-pub-2555400651572549/2204580330", 
-    "admb_native": "ca-app-pub-2555400651572549/1062038996"
+    "admb_banner": "ca-app-pub-9983687431904696/9557586043",
+    "admb_openad": "ca-app-pub-9983687431904696/8240634941",
+    "admb_inters": "ca-app-pub-9983687431904696/9553716610", 
+    "admb_native": "ca-app-pub-9983687431904696/3300472917"
   }
 }

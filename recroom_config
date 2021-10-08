@@ -21,7 +21,7 @@
       "showOnlyOpen":false,
       
       "snf": "nb",
-      "fan": true,
+      "fan": false,
       "adsfan": {
  
         "fan_banner": "381343950142296_381823333427691",
@@ -41,7 +41,7 @@
         "admb_openad": "ca-app-pub-7144089957930196/6444112200"
       },
       
-      "unity": false,
+      "unity": true,
       "adsunity": {
         "unity_id": "3667089",
         "unity_inters": "video"

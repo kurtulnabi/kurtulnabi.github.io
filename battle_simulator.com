@@ -52,14 +52,14 @@
         "fan_native_banner": "IMG_16_9_APP_INSTALL#147772497126061_177597947476849"
       },
       
-      "admob": true,
+      "admob": false,
       "adsadmb": {
         "admb_banner": "ca-app-pub-9983687431904696/9387362945",
         "admb_openad": "ca-app-pub-9983687431904696/6761199604",
         "admb_inters": "ca-app-pub-9983687431904696/1971907351",
         "admb_native": "ca-app-pub-9983687431904696/5994912845"
       },
-      "unity": false,
+      "unity": true,
       "adsunity": {
         "unity_id": "3978659",
         "unity_inters": "Android_Interstitial"

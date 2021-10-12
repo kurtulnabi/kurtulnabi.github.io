@@ -52,14 +52,14 @@
         "fan_native": "4611529225525806_4613285105350218",
         "fan_native_banner": "4611529225525806_4613285628683499"
       },
-      "admob": true,
+      "admob": false,
       "adsadmb": {
         "admb_banner": "ca-app-pub-7144089957930196/6506029255",
         "admb_openad": "ca-app-pub-7144089957930196/2047909490",
         "admb_inters": "ca-app-pub-7144089957930196/9413256010",
         "admb_native": "ca-app-pub-7144089957930196/4184980064"
       },
-      "unity": false,
+      "unity": true,
       "adsunity": {
         "unity_id": "3978659",
         "unity_inters": "Android_Interstitial"

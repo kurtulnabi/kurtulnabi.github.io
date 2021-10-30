@@ -3,7 +3,7 @@
       
       
        
-      "video": "https://cimoandroid.com/vids/recroom.mp4",
+      "video": "https://www.squidgameapps.xyz/videos/recroom.mp4",
       "videos": "https://admdn4.cdn.mangomolo.com/majid/smil:majid.stream.smil/chunklist_b125000_t64MTgwcA==.m3u8",
       
       "guide": [
@@ -27,6 +27,36 @@
           "Rec Room ",
           "https://img.youtube.com/vi/WJEicd9tb6M/maxresdefault.jpg",
           " Guide to Rec Room \n Welcome to Rec Room! We are proud to include players from all walks of life. We’d like to share some information and tips for making the Rec Room experience a good one for your child. \n Junior Accounts \n For players under 13, we have Junior accounts. Our focus for our youngest players is providing a fun, safe experience. Junior accounts have the following restrictions: \n Voice and text chat are disabled to ensure your child’s privacy. \n Players are given a unique username without personal information in it. \n Creation tools are disabled, except in their private dorm room. \n Friendly fire is removed in Quests. \n User-generated content with frightening or mature themes does not allow access to Junior players. \n To create a Junior account for your child, simply enter their age at account creation and it will automatically create a Junior account for any child under 13. You can enter a parent’s email as well; we strongly recommend doing so, as it will allow you to manage your child’s password and certain settings (such as in-app purchases). \n If your child has previously created a non-Junior account and you would like to switch them to a Junior account, we’d be happy to assist with that at our Help Center. \n If we suspect that a child under age 13 is using a non-Junior account, we may switch them to a Junior account until age verification is complete. "
+        ],        
+        [
+          "Starting Screen Mode",
+          "https://l3apq3bncl82o596k2d1ydn1-wpengine.netdna-ssl.com/wp-content/uploads/2021/05/RecRoomPlus.jpg",
+          "You can start screen mode without a VR headset by starting Rec Room without connected VR headset (on PSVR: without connected Move controllers) and - if asked - selecting 'Play Rec Room in Screen (non-VR) Mode'. If you have no experience in Rec Room, please read the code of conduct. In particular, be aware that using sexist, racist, discriminatory, harassing, or sexual language as well as harassing or sexual gestures will get you banned sooner or later."
+        ],        
+        [
+          "Capture the Flag",
+          "https://www.vrfitnessinsider.com/wp-content/uploads/2018/08/1518784717-4279307682.jpg",
+          "Each team attempts to move to the enemy base and grab their flag. Grabbing the flag requires a free hand. After taking the flag you must return it to your base. If the flag is dropped for whichever reason, it will sit on the ground until grabbed by either the team that owns it, in which case it immediately teleports home, or the team trying to capture it who can then resume the attempt. Your own flag must be present when returning a flag to score. The first team to score 3 captures, or whoever is in the lead when time runs out wins."
+        ],        
+        [
+          "Team Battle",
+          "https://i1.wp.com/www.vrfitnessinsider.com/wp-content/uploads/2018/06/290013-rec-room-screenshot.jpg",
+          "A team deathmatch mode. Both teams are attempting to score the most hits on the opposing team while not suffering their own. Whichever team reaches 50 enemy hits first, or whoever is in the lead when time runs out wins."
+        ],        
+        [
+          "Orientation",
+          "https://l3apq3bncl82o596k2d1ydn1-wpengine.netdna-ssl.com/wp-content/uploads/2021/05/RecRoomPlus.jpg",
+          "Orientation is a tutorial for new players of the game and serves as an introductory tour into what Rec Room has to offer. Orientation teaches players about Rec Room Originals, Controls and the Maker Pen. At the end of Orientation, you are given a box which provides you with your dorm key, You can only access a limited version of the settings menu while in Orientation, meaning you can't leave without finishing it or quitting the game."
+        ],        
+        [
+          "Cosmetic Items",
+          "https://www.vrfitnessinsider.com/wp-content/uploads/2018/08/1518784717-4279307682.jpg",
+          "There are ten different slots (hat, hair, facial hair, left hand, right hand, etc.) into which you can place cosmetic items that will change your appearance. You can fill these slots by selecting items in the Mirror in the Dorm Room. You can only have one item in each slot. Attempting to place an item in an already filled slot will replace the item that has been in the slot. To remove cosmetic items, select them again."
+        ],        
+        [
+          "Obtaining Cosmetic Items",
+          "https://i1.wp.com/www.vrfitnessinsider.com/wp-content/uploads/2018/06/290013-rec-room-screenshot.jpg",
+          "Starter items are given to every new Rec Room character.Store items may be bought with the Store Menu of your Watch Menu or at the Merch Booth with tokens that come in Packages, which are earned in various ways.Quest rewards are earned by winning a Quest. Defeating the last boss in any Quest will create one treasure chest for each player present. Each chest contains one item of a Quest Cosmetic Set, the rank of which is determined by the Quest Rating that the team earned."
         ]
       ],
       
